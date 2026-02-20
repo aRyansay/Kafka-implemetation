@@ -1,0 +1,4 @@
+com/consumer/dto/EmployeeDto.class
+com/consumer/consumer/KafkaConsumer.class
+com/consumer/KafkaConsumerApplication.class
+com/consumer/dto/AddressDto.class
